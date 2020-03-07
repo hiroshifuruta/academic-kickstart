@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Nano Science
+role: Professor of Electronic and Photonic Systems Engineering
 
 # Organizations/Affiliations
 organizations:
