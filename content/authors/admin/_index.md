@@ -14,7 +14,7 @@ role: Professor of Electronic and Photonic Systems Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Kochi University of Technology
+- name: Kochi University of Technology / School of Electronic and Photonic Systems Engineering
   url: "https://www.kochi-tech.ac.jp"
 
 # Short bio (displayed in user profile at end of posts)
