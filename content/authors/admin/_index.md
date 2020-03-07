@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Hiroshi Furuta
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Nano Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Kochi University of Technology
+  url: "https://www.kochi-tech.ac.jp"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: PhD in Science
+    institution: Osaka University
+    year: 1999
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
