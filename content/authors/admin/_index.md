@@ -69,7 +69,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
+# profile
 Hiroshi Furuta is a professor of material science at the Kochi University of Technology, Advanced Energy Nanomaterials Lab. His research interests include distributed thin film technologies, material science and nanotechnologies. He leads the Advance d Energy Nanomaterial group, which develops energy conversion devices by nanomaterials, neuromorphic metamaterials.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
